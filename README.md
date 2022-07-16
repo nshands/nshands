@@ -14,7 +14,7 @@
 - <b>Certification Title: Date</b>
   - [Link](https://github.com/nshands)
 
-<h2> 📧 Connect with me:</h2>
+<h2> 📧 Connect with Me:</h2>
 
 [<img align="left" alt="Nadia Shands | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1657994623~hmac=31b44bfbd58703912d9d639d65d18f6d"/>][linkedin]
 [<img align="left" alt="Nadia Shands | Handshake" width="22px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/bqag2d4y5czqb0vcepxv"/>][handshake]
